@@ -25,8 +25,9 @@ Good to know:
   including its collection and decks.
 - Your progress is saved in `%LOCALAPPDATA%\StarTrekAdversariesOffline`.
 - If Steam verifies or updates the game's files, run the exe again.
-- To undo everything, run `StarTrekAdversariesOffline.exe --restore` from a terminal, or
-  use Steam's *Verify integrity of game files*.
+- To undo everything, open PowerShell in the folder with the exe and run
+  `.\StarTrekAdversariesOffline.exe --restore`, or use Steam's *Verify integrity of game
+  files*.
 
 ## Windows warns about the exe
 
